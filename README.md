@@ -16,4 +16,4 @@ git clone https://github.com/SAIFUL-HACKER420/SAIFUL.ON.FIRE.git
 
 cd SAIFUL.ON.FIRE
 
-python SAIFUL.ON.FIRE.RNMM.GREENER.py
+python SAIFUL.ON.FIRE.GREENER.py
